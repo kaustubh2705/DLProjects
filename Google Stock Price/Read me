@@ -1,0 +1,4 @@
+Deep Learning project for predicting the Stock price of upcoming days using Recurrent Neural Networks (RNN).
+first code has time stamp of 1 day,
+second code has time stamp of 20 days and 1 LSTM layer,
+Third code has time stamp of 60 days and 4 LSTM layer.
